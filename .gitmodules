@@ -1,0 +1,3 @@
+[submodule "site/themes/hugo-tufte"]
+	path = site/themes/hugo-tufte
+	url = git@github.com:pepegar/hugo-tufte

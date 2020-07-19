@@ -1,0 +1,7 @@
+baseURL = "https://python-for-beginners.pepegar.com/"
+languageCode = "en-us"
+title = "Python for Beginners"
+theme = "hugo-tufte"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
