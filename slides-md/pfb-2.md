@@ -1,8 +1,8 @@
 ---
-title: Python for Beginners
+title: Python for Beginners, session 2
 author: Pepe García
 email: jgarciah@faculty.ie.edu
-date: 2020-04-20
+date: 2020-07-27
 lang: en
 ---
 
