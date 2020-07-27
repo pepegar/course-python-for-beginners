@@ -21,9 +21,6 @@ print("Na" * 16 + " Batman")
 print(3.14 * 2 ** 2)
 print(3.14 * 4 ** 2)
 
-#%%
-
-print(pi)
 
 #%%
 
